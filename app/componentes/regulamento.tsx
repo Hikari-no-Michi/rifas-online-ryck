@@ -34,7 +34,7 @@ const Regulamento: React.FC<RegulamentoProps> = ({ unitValue }) => {
           id="regulamento-content"
           className="mt-2 p-4 text-center text-lg text-white uppercase"
         >
-          <p>SUZUKI GSX-8S POR APENAS {unitValue}💰🍀</p>
+          <p>SUZUKI GSX-8S POR APENAS R$ {unitValue}💰🍀</p>
         </div>
       )}
     </div>
