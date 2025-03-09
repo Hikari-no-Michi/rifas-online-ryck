@@ -15,7 +15,7 @@ export default function PriceApp({
     <div className="mt-4 w-[98%] md:w-[60%] lg:w-[50%]">
       {/* Preço */}
       <p className="text-left text-white">Por apenas:</p>
-      <p className="text-left text-4xl font-medium text-white">{price}</p>
+      <p className="text-left text-4xl font-medium text-white">R$ {price}</p>
 
       {/* Botões de escolha */}
       <div className="mt-4 flex w-full space-x-1">
